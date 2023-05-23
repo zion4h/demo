@@ -6,6 +6,8 @@ def dog():
     print('Woof!')
 def newDog():
     print('Woof!Woof!')
+def newCat():
+    print('Meow!Meow!')
 
 def default():
     print('hello')
