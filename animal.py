@@ -4,6 +4,9 @@ def cat():
     print('Meow!')
 def dog():
     print('Woof!')
+def pig():
+    print('Huh!')
+
 def superman():
     print('Hold on!')
 def newDog():
